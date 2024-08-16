@@ -16,6 +16,7 @@ Crucially, our collaboration brings together experts in software engineering and
 # Sponsor: 
 
 NSF, Collaborative Research: SHF: Medium: Models and Analyses for Robots’ Messy Reality, Grant #
+(/images/nsf-logo.jpeg)
 
 # Relevant Papers
 
