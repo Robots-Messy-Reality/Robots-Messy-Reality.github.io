@@ -9,15 +9,18 @@ Crucially, our collaboration brings together experts in software engineering and
 
 # Investigators
 
-[Sebastian Elbaum](www.virginia.edu/~se4ja) ([UVA](virginia.edu)  [LESSLAB](https://less-lab-uva.github.io/)), 
-[Claire Le Guoes](https://clairelegoues.com/) (CMU [Squares Lab](https://squareslab.github.io/)), 
-[Changliu Liu](https://www.cs.cmu.edu/~cliu6/) (CMU)
++ [Sebastian Elbaum](www.virginia.edu/~se4ja) ([UVA](virginia.edu)  [LESSLAB](https://less-lab-uva.github.io/)), 
++ [Claire Le Guoes](https://clairelegoues.com/) (CMU [Squares Lab](https://squareslab.github.io/)), 
++ [Changliu Liu](https://www.cs.cmu.edu/~cliu6/) (CMU)
 
 # Sponsor: 
 
 NSF, Collaborative Research: SHF: Medium: Models and Analyses for Robots’ Messy Reality, Grant #
 
 # Relevant Papers
+
++ Software Engineering for Robotics: Future Research Directions; Report from the 2023 Workshop on Software Engineering for Robotics
+Claire Le Goues, Sebastian Elbaum, David Anthony, Z. Berkay Celik, Mauricio Castillo-Effe, Nikolaus Correll, Pooyan Jamshidi, Morgan Quigley , Trenton Tabor, Qi Zhu.  https://arxiv.org/abs/2401.12317
 
 + Canelas, P., Tabor, T., Ore, J.-P., Fonseca, A., Le Goues, C., & Timperley, C. S. (2024). Is it a Bug? Understanding Physical Unit Mismatches in Robot Software. International Conference on Robotics and Automation, 1–7.
 
