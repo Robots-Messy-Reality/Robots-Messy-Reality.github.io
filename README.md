@@ -1,9 +1,8 @@
  
-# Models and Analyses for Robots’ Messy Reality
+# Models and Analyses for Robots’ Messy Reality (Collaborative Research: SHF: Medium)
 
-## Sponsor: NSF ![NSF](./nsf-logo.jpeg) 
-Grant #2403060
-
+![NSF](./nsf-logo.jpeg) 
+ 
 ## Overview
 
 From self-driving cars to factory and surgical robots, robotic and autonomous systems are transforming the ways that humans travel, manufacture, and perform their jobs. Broadly, robotics autonomous systems (RAS) sense, process, and (often autonomously) interact with the physical world, usually to assist or automate some human task. As such systems grow more prevalent, assuring that they operate safely, with acceptable risk to humans and the environment becomes ever more important.
