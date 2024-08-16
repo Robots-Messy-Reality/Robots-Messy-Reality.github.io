@@ -1,8 +1,6 @@
  
 # Models and Analyses for Robots’ Messy Reality 
-## Collaborative Research: SHF: Medium
-
-![NSF](./nsf-logo.jpeg) 
+## Collaborative Research: SHF: Medium ![NSF](./nsf-logo.jpeg) 
  
 ## Overview
 
