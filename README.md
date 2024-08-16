@@ -1,7 +1,8 @@
  
 # Models and Analyses for Robots’ Messy Reality
 
-## Sponsor: NSF ![NSF](./nsf-logo.jpeg) Grant #2403060
+## Sponsor: NSF ![NSF](./nsf-logo.jpeg) 
+Grant #2403060
 
 ## Overview
 
@@ -14,11 +15,13 @@ Crucially, our collaboration brings together experts in software engineering and
 
 ![3 Key Thrusts](./thrusts) 
 
-Three independent research thrusts capture the proposal’s intellectual merit.
-+ Thrust I  aims to lift models from RAS code and configuration artifacts to enable the application
-of analyses cognizant of temporal behaviors, physical attributes, and constraints to real-world robotics code. We will develop static and dynamic analysis techniques to infer accurate run-time structural and behavioral models that describe a given robot implementation, and that enable detection of faults.
-+ Thrust II   aims to enable the inference of real world constraints from field traces to reduce the simulation reality gap. We will develop techniques to infer spatial-temporal necessary conditions exhibited by sensed data like images, videos, and LiDAR, contrast those specifications with the simulation configuration and state space to identify the gap, and synthesize simulation scenarios to narrow the gap.
-+ Thrust III   aims to support RAS evolution across multiple and diverse artifacts. We will develop techniques to incrementally build models, support their correction, enable their comparison, and automatically generate inputs and oracles that can target their differences.
+Three independent research thrusts capture the proposal’s intellectual merit:
+
++T1. Lift models from RAS code and configuration artifacts to enable the application of analyses cognizant of temporal behaviors, physical attributes, and constraints to real-world robotics code. We will develop static and dynamic analysis techniques to infer accurate run-time structural and behavioral models that describe a given robot implementation, and that enable detection of faults.
+
++T2. Enable the inference of real world constraints from field traces to reduce the simulation reality gap. We will develop techniques to infer spatial-temporal necessary conditions exhibited by sensed data like images, videos, and LiDAR, contrast those specifications with the simulation configuration and state space to identify the gap, and synthesize simulation scenarios to narrow the gap.
+
++T3. Support RAS evolution across multiple and diverse artifacts. We will develop techniques to incrementally build models, support their correction, enable their comparison, and automatically generate inputs and oracles that can target their differences.
 
 The techniques and tools will be assessed primarily on four RAS for which we have complete access, covering manufacturing to mobile robots, a range of properties, closed to open code bases, different languages and frameworks, and multiple simulators supporting different scenarios.
  
