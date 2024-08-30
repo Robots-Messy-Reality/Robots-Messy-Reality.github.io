@@ -1,6 +1,6 @@
  
 # Models and Analyses for Robots’ Messy Reality 
-## Collaborative Research: SHF: Medium ![NSF](./nsf-logo.jpeg) 
+## This work is supported by the National Science Foundation    
  
 ## Overview
 
