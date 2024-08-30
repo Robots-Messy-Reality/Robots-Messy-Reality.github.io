@@ -2,7 +2,7 @@
 # Models and Analyses for Robots’ Messy Reality 
 ## This work is supported by the [National Science Foundation](www.nsf.gov)   
  
-### Leads 
+### Lead investigators 
 + [Sebastian Elbaum](www.virginia.edu/~se4ja) ([UVA](virginia.edu)  [LESSLAB](https://less-lab-uva.github.io/)), 
 + [Claire Le Guoes](https://clairelegoues.com/) (CMU [Squares Lab](https://squareslab.github.io/)), 
 + [Changliu Liu](https://www.cs.cmu.edu/~cliu6/) (CMU)
