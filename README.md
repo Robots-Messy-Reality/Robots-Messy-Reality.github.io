@@ -2,6 +2,11 @@
 # Models and Analyses for Robots’ Messy Reality 
 ## This work is supported by the [National Science Foundation](www.nsf.gov)   
  
+### Leads 
++ [Sebastian Elbaum](www.virginia.edu/~se4ja) ([UVA](virginia.edu)  [LESSLAB](https://less-lab-uva.github.io/)), 
++ [Claire Le Guoes](https://clairelegoues.com/) (CMU [Squares Lab](https://squareslab.github.io/)), 
++ [Changliu Liu](https://www.cs.cmu.edu/~cliu6/) (CMU)
+  
 ## Overview
 
 From self-driving cars to factory and surgical robots, robotic and autonomous systems are transforming the ways that humans travel, manufacture, and perform their jobs. Broadly, robotics autonomous systems (RAS) sense, process, and (often autonomously) interact with the physical world, usually to assist or automate some human task. As such systems grow more prevalent, assuring that they operate safely, with acceptable risk to humans and the environment becomes ever more important.
@@ -22,18 +27,11 @@ Three independent research thrusts capture the proposal’s intellectual merit:
 + T3. Support RAS evolution across multiple and diverse artifacts. We will develop techniques to incrementally build models, support their correction, enable their comparison, and automatically generate inputs and oracles that can target their differences.
 
 The techniques and tools will be assessed primarily on four RAS for which we have complete access, covering manufacturing to mobile robots, a range of properties, closed to open code bases, different languages and frameworks, and multiple simulators supporting different scenarios.
- 
-## Investigators 
-
-### Leads 
-+ [Sebastian Elbaum](www.virginia.edu/~se4ja) ([UVA](virginia.edu)  [LESSLAB](https://less-lab-uva.github.io/)), 
-+ [Claire Le Guoes](https://clairelegoues.com/) (CMU [Squares Lab](https://squareslab.github.io/)), 
-+ [Changliu Liu](https://www.cs.cmu.edu/~cliu6/) (CMU)
-
+  
 ### Students 
 
 
-# Relevant Papers
+## Relevant Papers
 
 + Software Engineering for Robotics: Future Research Directions; Report from the 2023 Workshop on Software Engineering for Robotics
 Claire Le Goues, Sebastian Elbaum, David Anthony, Z. Berkay Celik, Mauricio Castillo-Effe, Nikolaus Correll, Pooyan Jamshidi, Morgan Quigley , Trenton Tabor, Qi Zhu.  https://arxiv.org/abs/2401.12317
